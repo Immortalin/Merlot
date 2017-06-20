@@ -1,0 +1,26 @@
+{
+  "name": "merlot",
+  "version": "1.0.0",
+  "description": "Modern Rapid Frontend Development",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "rapid web development",
+    "prototyping",
+    "ui",
+    "gui",
+    "grapesjs"
+  ],
+  "author": "GitHub",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  },
+  "dependencies": {
+    "grapesjs": "^0.8.8",
+    "jquery": "^3.2.1"
+  }
+}
