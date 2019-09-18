@@ -21,6 +21,6 @@
   },
   "dependencies": {
     "grapesjs": "^0.8.8",
-    "jquery": "^3.2.1"
+    "jquery": "^3.4.0"
   }
 }
