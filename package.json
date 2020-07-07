@@ -17,7 +17,7 @@
   "author": "GitHub",
   "license": "GPL-3.0",
   "devDependencies": {
-    "electron": "~1.6.2"
+    "electron": "~7.2.4"
   },
   "dependencies": {
     "grapesjs": "^0.8.8",
